@@ -5,12 +5,12 @@ export default function Layout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>Next.js</title>
+        <title>Sebastián Medina</title>
       </head>
       <body>
       <div className={styles.header}>
   <div>
-   <h1 style={{ marginTop: 0 }}>From layout</h1>
+   <h1 style={{ marginTop: 0 }}>My Portfolio</h1>
   </div>
  <div>
 <Link href="/profile/teacher">navigate to teacher profile</Link>
