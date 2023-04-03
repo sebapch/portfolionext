@@ -1,0 +1,22 @@
+.alturaHero{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.profilePic {
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    background-color: red;
+    background-size: cover;
+    background-position: center;
+    border-radius: 39% 61% 69% 31% / 50% 59% 41% 50% ;
+
+  }
+  
+
+
+  

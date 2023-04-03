@@ -8,7 +8,7 @@ export default function Layout({ children }) {
         <title>Sebastián Medina</title>
       </head>
       <body>
-      <div className={styles.header}>
+    {/*   <div className={styles.header}>
   <div>
    <h1 style={{ marginTop: 0 }}>My Portfolio</h1>
   </div>
@@ -18,7 +18,7 @@ export default function Layout({ children }) {
   <div>
     <Link href="/profile/student">navigate to student profile</Link>
   </div>
-</div>
+</div> */}
         <div>
           {children}
         </div>
