@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react'
 import {Container, Col, Row} from 'react-bootstrap'
 
@@ -10,7 +12,7 @@ const AboutMe = () => {
             <label>About Me</label>
           </Col>
           <Col>
-            <p>Lalalalala</p>
+            <p>Lalalalalala</p>
           </Col>
         </Row>
       </Container>
