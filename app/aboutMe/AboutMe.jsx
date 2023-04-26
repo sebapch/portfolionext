@@ -7,13 +7,19 @@ const AboutMe = () => {
   return (
     <div>
       <Container>
-        <Row>
-          <Col>
-            <label>About Me</label>
-          </Col>
-          <Col>
-            <p>Lalalalalala</p>
-          </Col>
+        <Row>          
+            <label>My expertise</label>
+            <Row>
+              <div className='box-about'>
+                Software dev
+              </div>
+              <div>
+                Software dev
+              </div>
+              <div>
+                Software dev
+              </div>
+            </Row>   
         </Row>
       </Container>
     </div>
